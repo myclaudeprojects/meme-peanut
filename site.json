@@ -1,0 +1,45 @@
+{
+  "ticker": "PEANUT",
+  "ticker_lower": "peanut",
+  "name": "Peanut",
+  "character": {
+    "name": "Peanut",
+    "one_liner": "Moves slowly, thinks slowly, is never wrong.",
+    "visual": "Fluffy grey baby koala with big round fuzzy ears with pale pink insides, a large dark button nose, shiny brown eyes, a gentle little smile, and a cream chest, hugging a branch surrounded by green eucalyptus leaves"
+  },
+  "tagline": "Slow and steady. Mostly slow. Always right.",
+  "blurb": "Peanut takes his time with everything \u2014 eating, climbing, answering questions \u2014 and somehow he's always right in the end. Entertainment only \u2014 not financial advice.",
+  "mint": null,
+  "ca": null,
+  "buy_url": null,
+  "twitter": null,
+  "x_url": null,
+  "telegram": null,
+  "telegram_url": null,
+  "dexscreener": null,
+  "character_image": "/workspace/meme-site-factory/critters-art/peanut.webp",
+  "palette": {
+    "primary": "#ff9a76",
+    "secondary": "#ffd6a5",
+    "accent": "#ffe8d6",
+    "bg": "#fff8f1"
+  },
+  "design": {
+    "seed": "f1a6b7bdfc6cffb3",
+    "palette_family": "cream_peach",
+    "palette_source": "generated",
+    "layout": "wide_hero",
+    "layout_source": "generated",
+    "layout_label": "Full-bleed soft hero band with mascot on top, content below",
+    "font_pair": "sofia_karla",
+    "font_source": "generated",
+    "font_display": "Sofia Sans Condensed",
+    "font_body": "Karla",
+    "font_google": "family=Sofia+Sans+Condensed:wght@400;500;600;700;800&family=Karla:wght@400;500;600;700"
+  },
+  "request_id": "peanut-2026-10-08-001",
+  "reply_to_agent_id": "9411f9dd-aace-468d-ba4c-319e35db5600",
+  "public": true,
+  "lore": "Peanut lives in a cozy eucalyptus tree and has never once been in a hurry. He hugs his favorite branch, chews his favorite leaves, and considers every question for a very, very long time.\n\nHis friends used to rush him. Then they noticed something: whenever Peanut finally answered \u2014 which way home was, whether it would rain, who ate the last leaf \u2014 he was right. Every single time.\n\nNow everyone just waits. They bring a snack, sit beside him on the branch, and enjoy the quiet while Peanut thinks it over with his big fuzzy ears and gentle little smile.\n\nSlow, sweet, and quietly brilliant \u2014 Peanut is proof that good things come to those who nap. Entertainment only \u2014 not financial advice.",
+  "lore_source": "handoff"
+}
